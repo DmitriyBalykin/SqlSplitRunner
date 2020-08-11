@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SqlSplitRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\dmitr\\Documents\\FF\\data\\2020.08.10_dev.sql IntegrationDatabase 200000 localhost"
+    }
+  }
+}

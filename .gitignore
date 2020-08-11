@@ -1,0 +1,5 @@
+.vs/
+SqlSplitRunner/bin/Debug/netcoreapp3.1/SqlSplitRunner.dll
+SqlSplitRunner/bin/Debug/netcoreapp3.1/SqlSplitRunner.deps.json
+SqlSplitRunner/bin/
+SqlSplitRunner/obj/
